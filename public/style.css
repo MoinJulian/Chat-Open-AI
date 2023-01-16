@@ -5,9 +5,9 @@
 }
 
 body {
-  font-family: monospace;
-  color: greenyellow;
-  background-color: #222;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  background-color: #091017;
   font-size: 20px;
   text-align: center;
   padding-inline: 10px;
@@ -33,7 +33,7 @@ textarea {
   font-size: inherit;
   color: inherit;
   background: none;
-  border: 1px solid #555;
+  border: 1px solid #142230;
   outline: none;
   padding: 10px;
   margin-bottom: 20px;
@@ -41,14 +41,14 @@ textarea {
 }
 
 textarea:focus {
-  border-color: #666;
+  border-color: #0e1721;
 }
 
 button {
   font-family: inherit;
   font-size: inherit;
   color: inherit;
-  background: #555;
+  background: #142230;
   cursor: pointer;
   border: none;
   outline: none;
@@ -58,7 +58,7 @@ button {
 
 button:hover,
 button:focus-visible {
-  background-color: #666;
+  background-color: #0e1721;
 }
 
 #output {
